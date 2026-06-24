@@ -114,14 +114,13 @@ src/main/java/org/example/rdf2pg/   # Java translator, streaming I/O, verifier
 src/test/java/                      # Compliance & round-trip tests
 python/                             # Experiment runners, metrics, plots
 scripts/                            # Docker Neo4j, experiment shells
-docs/                               # Thesis LaTeX excerpts (Polish)
 ```
 
 | Package / module | Role |
 |------------------|------|
 | `RdfToPropertyGraphTranslator` | RDF 1.2 → in-memory property graph |
 | `PropertyGraphNeo4jWriter` | Batch UNWIND write to Neo4j |
-| `StreamingNeo4jToRdf12Exporter` | Cursor-paginated Neo4j → NT |
+| `StreamingNeo4jToRdf12Exporter` | Batched Neo4j → NT export |
 | `StreamingRdf12ToNeo4jImporter` | Streaming NT → Neo4j |
 | `CanonicalRdfVerifier` | Canonical multiset compare |
 | `GraphmlStreamingImporter` | GraphML → Neo4j |

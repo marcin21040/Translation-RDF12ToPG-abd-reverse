@@ -71,3 +71,6 @@ samples/
 ### Misc local artifacts ###
 collision.nt
 collision-rt.nt
+
+### Thesis / local notes (not for repo) ###
+docs/
