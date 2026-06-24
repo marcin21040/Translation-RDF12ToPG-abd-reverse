@@ -160,9 +160,6 @@ python python/rdfstar_to_rdf12.py input.nt output.nt
 - [`README-rdf2pg.md`](README-rdf2pg.md) — detailed workflows, troubleshooting, legacy notes
 - [`python/README.md`](python/README.md) — Python utilities
 
-## License
-
-Academic / thesis project. Check with the author before commercial use.
 
 ## Author
 
