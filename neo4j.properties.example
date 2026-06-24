@@ -1,0 +1,4 @@
+# Copy to neo4j.properties and set your password (neo4j.properties is gitignored).
+neo4j.uri=bolt://localhost:7690
+neo4j.user=neo4j
+neo4j.password=CHANGE_ME

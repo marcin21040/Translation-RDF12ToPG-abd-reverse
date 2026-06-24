@@ -1,0 +1,73 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+.kotlin
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code / Cursor ###
+.vscode/
+.cursor/
+
+### Mac OS ###
+.DS_Store
+
+### Neo4j credentials (never commit) ###
+neo4j.properties
+
+### Python ###
+__pycache__/
+*.py[cod]
+.venv/
+.venv-experiments/
+*.egg-info/
+.pytest_cache/
+
+### Maven local / accidental ###
+.m2repo/
+/mvn
+
+### Large RDF / GraphML data (download or generate locally) ###
+*.nt
+!src/test/resources/**/*.nt
+yago_annotations.nt
+wynik.nt
+wynik-*.nt
+wynik-roundtrip*.nt
+pole-rdf.nt
+pole-roundtrip*.nt
+twitch-*.nt
+collision*.nt
+*-roundtrip*.nt
+
+### Experiment outputs ###
+results/
+samples/
+
+### Misc local artifacts ###
+collision.nt
+collision-rt.nt

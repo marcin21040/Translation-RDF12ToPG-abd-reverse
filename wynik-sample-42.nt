@@ -1,0 +1,101 @@
+VERSION "1.2"
+_:b398691395 <http://www.w3.org/1999/02/22-rdf-syntax-ns#reifies> <<( <http://yago-knowledge.org/resource/_Q56236170> <http://schema.org/dissolutionDate> "2009"^^<http://www.w3.org/2001/XMLSchema#gYear> )>> .
+_:b398691395 <http://schema.org/startDate> "2009-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+_:b398691395 <http://schema.org/endDate> "2009-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+_:b2600340319 <http://www.w3.org/1999/02/22-rdf-syntax-ns#reifies> <<( <http://yago-knowledge.org/resource/TarO&JirO_Q17213378> <http://schema.org/dissolutionDate> "2015-04-01"^^<http://www.w3.org/2001/XMLSchema#date> )>> .
+_:b2600340319 <http://schema.org/endDate> "2019"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+_:b912648225 <http://www.w3.org/1999/02/22-rdf-syntax-ns#reifies> <<( <http://yago-knowledge.org/resource/Winnie_the_Pooh_(Disney_character)> <http://schema.org/award> <http://yago-knowledge.org/resource/star_on_Hollywood_Walk_of_Fame_Q17985761> )>> .
+_:b912648225 <http://schema.org/startDate> "2006-04-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:b3827970652 <http://www.w3.org/1999/02/22-rdf-syntax-ns#reifies> <<( <http://yago-knowledge.org/resource/Vadelmavene> <http://schema.org/award> <http://yago-knowledge.org/resource/platinum_record_Q3194212> )>> .
+_:b3827970652 <http://schema.org/startDate> "2014-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+_:b3274701152 <http://www.w3.org/1999/02/22-rdf-syntax-ns#reifies> <<( <http://yago-knowledge.org/resource/Big_Bird> <http://schema.org/award> <http://yago-knowledge.org/resource/Library_of_Congress_Living_Legend> )>> .
+_:b3274701152 <http://schema.org/startDate> "2000-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+_:b2549542506 <http://www.w3.org/1999/02/22-rdf-syntax-ns#reifies> <<( <http://yago-knowledge.org/resource/Snow_White_(Disney_character)> <http://schema.org/award> <http://yago-knowledge.org/resource/star_on_Hollywood_Walk_of_Fame_Q17985761> )>> .
+_:b2549542506 <http://schema.org/startDate> "1987-06-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:b2552154955 <http://www.w3.org/1999/02/22-rdf-syntax-ns#reifies> <<( <http://yago-knowledge.org/resource/Oh_bah_oui> <http://schema.org/award> <http://yago-knowledge.org/resource/platinum_record_Q3194212> )>> .
+_:b2552154955 <http://schema.org/startDate> "2017-09-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:b2601435857 <http://www.w3.org/1999/02/22-rdf-syntax-ns#reifies> <<( <http://yago-knowledge.org/resource/Sherlock_Holmes> <http://schema.org/award> <http://yago-knowledge.org/resource/Legion_of_Honour> )>> .
+_:b2601435857 <http://schema.org/startDate> "1894"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+_:b2412731275 <http://www.w3.org/1999/02/22-rdf-syntax-ns#reifies> <<( <http://yago-knowledge.org/resource/The_Naked_Scientists> <http://schema.org/award> <http://yago-knowledge.org/resource/Kohn_Award> )>> .
+_:b2412731275 <http://schema.org/startDate> "2008"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+_:b508344685 <http://www.w3.org/1999/02/22-rdf-syntax-ns#reifies> <<( <http://yago-knowledge.org/resource/The_Musicians'_Brawl> <http://schema.org/creator> <http://yago-knowledge.org/resource/Georges_de_La_Tour> )>> .
+_:b508344685 <http://schema.org/startDate> "1958"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+_:b2074714571 <http://www.w3.org/1999/02/22-rdf-syntax-ns#reifies> <<( <http://yago-knowledge.org/resource/Open_Science_Radio_Q18744554> <http://schema.org/creator> <http://yago-knowledge.org/resource/Konrad_Förstner_Q18744528> )>> .
+_:b2074714571 <http://schema.org/startDate> "2014-01-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:b232891350 <http://www.w3.org/1999/02/22-rdf-syntax-ns#reifies> <<( <http://yago-knowledge.org/resource/Open_Science_Radio_Q18744554> <http://schema.org/creator> <http://yago-knowledge.org/resource/Matthias_Fromm_Q18748012> )>> .
+_:b232891350 <http://schema.org/startDate> "2013-01-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:b578638797 <http://www.w3.org/1999/02/22-rdf-syntax-ns#reifies> <<( <http://yago-knowledge.org/resource/Zipi_y_Zape> <http://schema.org/creator> <http://yago-knowledge.org/resource/José_Escobar_Saliente> )>> .
+_:b578638797 <http://schema.org/startDate> "1948"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+_:b578638797 <http://schema.org/endDate> "1994"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+_:b223404336 <http://www.w3.org/1999/02/22-rdf-syntax-ns#reifies> <<( <http://yago-knowledge.org/resource/Zipi_y_Zape> <http://schema.org/creator> <http://yago-knowledge.org/resource/Joaquín_Cera> )>> .
+_:b223404336 <http://schema.org/startDate> "2000"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+_:b223404336 <http://schema.org/endDate> "2002"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+_:b3954258277 <http://www.w3.org/1999/02/22-rdf-syntax-ns#reifies> <<( <http://yago-knowledge.org/resource/Saint_John_the_Evangelist_Q3826930> <http://schema.org/creator> <http://yago-knowledge.org/resource/Donatello> )>> .
+_:b3954258277 <http://schema.org/startDate> "1408"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+_:b3954258277 <http://schema.org/endDate> "1415"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+_:b3267446903 <http://www.w3.org/1999/02/22-rdf-syntax-ns#reifies> <<( <http://yago-knowledge.org/resource/Barrymore_Madonna> <http://schema.org/creator> <http://yago-knowledge.org/resource/Antonio_da_Correggio> )>> .
+_:b3267446903 <http://schema.org/startDate> "1933-06-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:b1011795769 <http://www.w3.org/1999/02/22-rdf-syntax-ns#reifies> <<( <http://yago-knowledge.org/resource/The_Last_Supper_Q4003124> <http://schema.org/creator> <http://yago-knowledge.org/resource/Cesare_da_Sesto> )>> .
+_:b1011795769 <http://schema.org/startDate> "1735"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+_:b2029341545 <http://www.w3.org/1999/02/22-rdf-syntax-ns#reifies> <<( <http://yago-knowledge.org/resource/Vaas_van_Vreugde_Q45101222> <http://schema.org/creator> <http://yago-knowledge.org/resource/Toon_Grassens_Q5102902> )>> .
+_:b2029341545 <http://schema.org/startDate> "2003"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+_:b2332737404 <http://www.w3.org/1999/02/22-rdf-syntax-ns#reifies> <<( <http://yago-knowledge.org/resource/Vaas_van_Vreugde_Q45101222> <http://schema.org/creator> <http://yago-knowledge.org/resource/Louis_Vreugde_Q2048561> )>> .
+_:b2332737404 <http://schema.org/startDate> "1913"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+_:b1872444313 <http://www.w3.org/1999/02/22-rdf-syntax-ns#reifies> <<( <http://yago-knowledge.org/resource/Mark_Trail> <http://schema.org/creator> <http://yago-knowledge.org/resource/Ed_Dodd> )>> .
+_:b1872444313 <http://schema.org/startDate> "1946"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+_:b1872444313 <http://schema.org/endDate> "1978"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+_:b2864804407 <http://www.w3.org/1999/02/22-rdf-syntax-ns#reifies> <<( <http://yago-knowledge.org/resource/Mark_Trail> <http://schema.org/creator> <http://yago-knowledge.org/resource/Jack_Elrod> )>> .
+_:b2864804407 <http://schema.org/startDate> "1950"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+_:b2864804407 <http://schema.org/endDate> "2014"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+_:b669245589 <http://www.w3.org/1999/02/22-rdf-syntax-ns#reifies> <<( <http://yago-knowledge.org/resource/Ronald_McDonald> <http://schema.org/creator> <http://yago-knowledge.org/resource/Willard_Scott> )>> .
+_:b669245589 <http://schema.org/startDate> "1963"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+_:b669245589 <http://schema.org/endDate> "1971"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+_:b1732259424 <http://www.w3.org/1999/02/22-rdf-syntax-ns#reifies> <<( <http://yago-knowledge.org/resource/Cup_of_China> <http://schema.org/superEvent> <http://yago-knowledge.org/resource/ISU_Grand_Prix_of_Figure_Skating> )>> .
+_:b1732259424 <http://schema.org/startDate> "2003"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+_:b1328002238 <http://www.w3.org/1999/02/22-rdf-syntax-ns#reifies> <<( <http://yago-knowledge.org/resource/Internationaux_de_France> <http://schema.org/superEvent> <http://yago-knowledge.org/resource/ISU_Grand_Prix_of_Figure_Skating> )>> .
+_:b1328002238 <http://schema.org/startDate> "1995"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+_:b1616740503 <http://www.w3.org/1999/02/22-rdf-syntax-ns#reifies> <<( <http://yago-knowledge.org/resource/NHK_Trophy> <http://schema.org/superEvent> <http://yago-knowledge.org/resource/ISU_Grand_Prix_of_Figure_Skating> )>> .
+_:b1616740503 <http://schema.org/startDate> "1995"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+_:b3404501632 <http://www.w3.org/1999/02/22-rdf-syntax-ns#reifies> <<( <http://yago-knowledge.org/resource/Jiangxi_International_Women's_Tennis_Open> <http://schema.org/superEvent> <http://yago-knowledge.org/resource/WTA_125K_series> )>> .
+_:b3404501632 <http://schema.org/startDate> "2014"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+_:b3404501632 <http://schema.org/endDate> "2015"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+_:b787463788 <http://www.w3.org/1999/02/22-rdf-syntax-ns#reifies> <<( <http://yago-knowledge.org/resource/Jiangxi_International_Women's_Tennis_Open> <http://schema.org/superEvent> <http://yago-knowledge.org/resource/WTA_International_tournaments> )>> .
+_:b787463788 <http://schema.org/startDate> "2016"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+_:b23270181 <http://www.w3.org/1999/02/22-rdf-syntax-ns#reifies> <<( <http://yago-knowledge.org/resource/_Q17995254> <http://schema.org/superEvent> <http://yago-knowledge.org/resource/_Q11389697> )>> .
+_:b23270181 <http://schema.org/startDate> "2014"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+_:b2432887697 <http://www.w3.org/1999/02/22-rdf-syntax-ns#reifies> <<( <http://yago-knowledge.org/resource/Skate_Canada_International> <http://schema.org/superEvent> <http://yago-knowledge.org/resource/ISU_Grand_Prix_of_Figure_Skating> )>> .
+_:b2432887697 <http://schema.org/startDate> "1995"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+_:b3602223864 <http://www.w3.org/1999/02/22-rdf-syntax-ns#reifies> <<( <http://yago-knowledge.org/resource/Skate_America> <http://schema.org/superEvent> <http://yago-knowledge.org/resource/ISU_Grand_Prix_of_Figure_Skating> )>> .
+_:b3602223864 <http://schema.org/startDate> "1995"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+_:b3231511760 <http://www.w3.org/1999/02/22-rdf-syntax-ns#reifies> <<( <http://yago-knowledge.org/resource/2016_Rally_Sweden> <http://schema.org/superEvent> <http://yago-knowledge.org/resource/2016_World_Rally_Championship> )>> .
+_:b3231511760 <http://schema.org/startDate> "2016-01-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:b3231511760 <http://schema.org/endDate> "2016-11-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:b858931295 <http://www.w3.org/1999/02/22-rdf-syntax-ns#reifies> <<( <http://yago-knowledge.org/resource/Imatranajo_Q22916781> <http://schema.org/superEvent> <http://yago-knowledge.org/resource/International_Road_Racing_Championship_Q17136762> )>> .
+_:b858931295 <http://schema.org/startDate> "2016"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+_:b2660803823 <http://www.w3.org/1999/02/22-rdf-syntax-ns#reifies> <<( <http://yago-knowledge.org/resource/Imatranajo_Q22916781> <http://schema.org/superEvent> <http://yago-knowledge.org/resource/Finnish_motorcycle_Grand_Prix> )>> .
+_:b2660803823 <http://schema.org/startDate> "1964"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+_:b2660803823 <http://schema.org/endDate> "1982"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+_:b2633775281 <http://www.w3.org/1999/02/22-rdf-syntax-ns#reifies> <<( <http://yago-knowledge.org/resource/Señorita_México> <http://schema.org/superEvent> <http://yago-knowledge.org/resource/Miss_Mexico_Organization> )>> .
+_:b2633775281 <http://schema.org/startDate> "1952"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+_:b2633775281 <http://schema.org/endDate> "1994"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+_:b3090219707 <http://www.w3.org/1999/02/22-rdf-syntax-ns#reifies> <<( <http://yago-knowledge.org/resource/Oude_Kunst-_en_Antiekbeurs_Delft_Q2684807> <http://schema.org/superEvent> <http://yago-knowledge.org/resource/PAN_Amsterdam_Q2736201> )>> .
+_:b3090219707 <http://schema.org/startDate> "1987"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+_:b982097154 <http://www.w3.org/1999/02/22-rdf-syntax-ns#reifies> <<( <http://yago-knowledge.org/resource/Invesco_QQQ_Championship> <http://schema.org/superEvent> <http://yago-knowledge.org/resource/NASCAR_Xfinity_Series> )>> .
+_:b982097154 <http://schema.org/startDate> "1982"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+_:b374559662 <http://www.w3.org/1999/02/22-rdf-syntax-ns#reifies> <<( <http://yago-knowledge.org/resource/Pyynikinajo_Q34925904> <http://schema.org/superEvent> <http://yago-knowledge.org/resource/Finnish_motorcycle_Grand_Prix> )>> .
+_:b374559662 <http://schema.org/startDate> "1962"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+_:b374559662 <http://schema.org/endDate> "1963"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+_:b512168400 <http://www.w3.org/1999/02/22-rdf-syntax-ns#reifies> <<( <http://yago-knowledge.org/resource/South_Point_400> <http://schema.org/superEvent> <http://yago-knowledge.org/resource/NASCAR_Cup_Series> )>> .
+_:b512168400 <http://schema.org/startDate> "2018"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+_:b3598876236 <http://www.w3.org/1999/02/22-rdf-syntax-ns#reifies> <<( <http://yago-knowledge.org/resource/Federated_Auto_Parts_300> <http://schema.org/superEvent> <http://yago-knowledge.org/resource/NASCAR_Xfinity_Series> )>> .
+_:b3598876236 <http://schema.org/startDate> "2002"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+_:b3598876236 <http://schema.org/endDate> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+_:b3159432529 <http://www.w3.org/1999/02/22-rdf-syntax-ns#reifies> <<( <http://yago-knowledge.org/resource/Bofrost_Cup_on_Ice> <http://schema.org/superEvent> <http://yago-knowledge.org/resource/ISU_Grand_Prix_of_Figure_Skating> )>> .
+_:b3159432529 <http://schema.org/startDate> "1995"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+_:b3159432529 <http://schema.org/endDate> "2002"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+_:b128843257 <http://www.w3.org/1999/02/22-rdf-syntax-ns#reifies> <<( <http://yago-knowledge.org/resource/Pop_Secret_Microwave_Popcorn_400> <http://schema.org/superEvent> <http://yago-knowledge.org/resource/NASCAR_Cup_Series> )>> .
+_:b128843257 <http://schema.org/startDate> "1965"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+_:b128843257 <http://schema.org/endDate> "2003"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+_:b608792121 <http://www.w3.org/1999/02/22-rdf-syntax-ns#reifies> <<( <http://yago-knowledge.org/resource/Carolina_Dodge_Dealers_400> <http://schema.org/superEvent> <http://yago-knowledge.org/resource/NASCAR_Cup_Series> )>> .
+_:b608792121 <http://schema.org/startDate> "1960"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+_:b608792121 <http://schema.org/endDate> "2004"^^<http://www.w3.org/2001/XMLSchema#gYear> .
